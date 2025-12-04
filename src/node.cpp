@@ -1,4 +1,4 @@
-#include "node.h"
+#include "../head/node.h"
 
 void Node::removeNeighbour(Node* node)
 {

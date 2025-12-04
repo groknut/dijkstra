@@ -1,4 +1,4 @@
-#include "search.h"
+#include "../head/search.h"
 
 // методы приоритетной очереди
 MarkedNode PriorityQueue::pop() {

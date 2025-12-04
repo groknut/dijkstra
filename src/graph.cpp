@@ -1,4 +1,4 @@
-#include "graph.h"
+#include "../head/graph.h"
 
 int Graph::node_count()
 {
