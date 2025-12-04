@@ -1,9 +1,9 @@
 ﻿#include <iostream> 
 #include <locale.h> 
 #include <fstream>
-#include "graph.h"
-#include "node.h"
-#include "search.h"
+#include "./head/graph.h"
+#include "./head/node.h"
+#include "./head/search.h"
 
 using namespace std;
 
