@@ -1,0 +1,11 @@
+
+{
+	"app": "main",
+	"input_file": "./input/1.txt",
+	"algorithm": {
+		"start": 1,
+		"end": 9,
+		"header": true
+	}
+}
+
